@@ -1,0 +1,15 @@
+# Object files
+*.o
+
+# Executables (common names)
+a.out
+*.out
+*.exe
+
+# Debug files
+*.gdb
+*.dSYM/
+
+# Build directories
+build/
+bin/
